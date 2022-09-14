@@ -1,0 +1,8 @@
+C:\Users\RAMYA\source\repos\LineComparisonProblems\LineComparisonProblems\bin\Debug\LineComparisonProblems.exe.config
+C:\Users\RAMYA\source\repos\LineComparisonProblems\LineComparisonProblems\bin\Debug\LineComparisonProblems.exe
+C:\Users\RAMYA\source\repos\LineComparisonProblems\LineComparisonProblems\bin\Debug\LineComparisonProblems.pdb
+C:\Users\RAMYA\source\repos\LineComparisonProblems\LineComparisonProblems\obj\Debug\LineComparisonProblems.csproj.AssemblyReference.cache
+C:\Users\RAMYA\source\repos\LineComparisonProblems\LineComparisonProblems\obj\Debug\LineComparisonProblems.csproj.SuggestedBindingRedirects.cache
+C:\Users\RAMYA\source\repos\LineComparisonProblems\LineComparisonProblems\obj\Debug\LineComparisonProblems.csproj.CoreCompileInputs.cache
+C:\Users\RAMYA\source\repos\LineComparisonProblems\LineComparisonProblems\obj\Debug\LineComparisonProblems.exe
+C:\Users\RAMYA\source\repos\LineComparisonProblems\LineComparisonProblems\obj\Debug\LineComparisonProblems.pdb
