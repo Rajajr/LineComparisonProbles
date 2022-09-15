@@ -11,7 +11,7 @@ namespace LineComparisonProblems
     {
         static void Main(string[] args)
         {
-            //UC-2 Find two lines are equal or not
+            //UC-3 Find the Line is equal,greater or less 
             //variables
             int x1, y1, x2, y2, x3, y3, x4, y4; 
             double Length1;
@@ -34,7 +34,7 @@ namespace LineComparisonProblems
             x3 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("y3 value");
             y3 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Please Enter the x2 and y2 values:");
+            Console.WriteLine("Please Enter the x4 and y4 values:");
             Console.WriteLine("x4 value");
             x4 = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("y4 value");
@@ -48,11 +48,19 @@ namespace LineComparisonProblems
             {
                 Console.WriteLine("Two Lines are Equal");
             }
-            else
+            else if (Length1>Length2)
             {
-                Console.WriteLine("Two Lines are not Equal");
+                Console.WriteLine("Line One is greater than Line Two");
             }
-            
+            else if (Length2>Length1)
+            {
+                Console.WriteLine("Line Two is Greater than Line One");
+            }
+            else if (Length1!=Length2)
+            {
+                Console.WriteLine("Two Lines are Not Equal");
+            }
+
             Console.ReadLine();
 
         }
